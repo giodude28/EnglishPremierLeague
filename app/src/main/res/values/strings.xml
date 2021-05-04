@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">English Premier League</string>
+
+    <string name="awd">This is a Image</string>
+    <string name="Open" />
+    <string name="Close" />
+</resources>

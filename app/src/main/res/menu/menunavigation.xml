@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homes"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/teams"
+        android:enabled="true"
+        android:title="Teams"
+        android:icon="@drawable/ic_baseline_people_alt_24"/>
+
+    <item
+        android:id="@+id/live"
+        android:enabled="true"
+        android:title="Live Matches"
+        android:icon="@drawable/live"/>
+    <item
+        android:id="@+id/match"
+        android:enabled="true"
+        android:title="Past Matches"
+        android:icon="@drawable/previous"/>
+</menu>
